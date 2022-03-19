@@ -12,12 +12,6 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Bookmarks Manager Application</h1>
-
-        <p className={styles.description}>
-          This is the <code className={styles.code}>pages/index.js</code> Page.
-        </p>
-
-        <div></div>
       </main>
 
       <footer className={styles.footer}>
@@ -26,7 +20,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          All Rights Reserved by wecraftcode, 2022{" "}
+          All Rights Reserved by wecraftcode, 2022
         </a>
       </footer>
     </div>
